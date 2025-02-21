@@ -38,8 +38,8 @@ To run the project, ensure you have:
 1.  **Clone the repository and navigate to the project directory:**
     
     ```bash
-    git clone <YOUR_REPO_URL>
-    cd <repository_name>
+    git clone https://github.com/vladEDT/Kolmogorov.compress/
+    cd Kolmogorov.compress
     ``` 
     
 2.  **Install dependencies:**
@@ -160,9 +160,9 @@ Perform fine-tuning? (y/n):
 1. **Клонирование репозитория и переход в директорию проекта:**
 
    ```bash
-   git clone <URL_вашего_репозитория>
-   cd <название_репозитория>
-   ``` 
+    git clone https://github.com/vladEDT/Kolmogorov.compress/
+    cd Kolmogorov.compress
+   ```  
 
 2.  **Установка зависимостей:**
     
