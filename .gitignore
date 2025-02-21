@@ -1,0 +1,5 @@
+.venv
+tests
+dataset
+compressed_model.pth
+todo
